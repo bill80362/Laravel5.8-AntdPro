@@ -29,3 +29,4 @@ Laravel5.8 + Ant Desing Pro
 入口: http://laravel.bill.nctu.me/react  
 帳號 : admin@admin.com / admin  
 Git : https://github.com/bill80362/Laravel5.8-AntdPro/  
+PS : 目前只有做 帳號管理、項目分類，因為只是練習，其他也都是相同功能的DB在操作，就先醬了~~!
